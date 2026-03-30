@@ -67,12 +67,12 @@
 ## 📊 Analyse d'Activité
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/0-profile-details.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/0-profile-details.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/3-stats.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/3-stats.svg" width="48%" />
 </p>
 
 ---
