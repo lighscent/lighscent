@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=lighscent&fontSize=90&fontAlignY=38" width="100%" />
 
-  <h1>🚀 Développeur Backend & Architecte Systèmes</h1>
+  <h1>🚀 Développeur Backend & passionné d'Open Source</h1>
 
   <p>
     <a href="https://github.com/lighscent"><img src="https://img.shields.io/github/followers/lighscent?label=Follow&style=social" /></a>
@@ -10,28 +10,23 @@
   </p>
 
   ---
-
-  <p align="center">
-    <strong>Passionné par la conception d'infrastructures robustes et la sécurisation des flux de données.</strong><br>
-    <i>"Transformer des idées complexes en APIs performantes et scalables."</i>
-  </p>
 </div>
 
-## 👤 À Propos de Moi
+## Objectifs
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 Objectifs 2025</h3>
+      <h3>🎯 Objectifs 2026</h3>
       <ul>
-        <li>🏗️ <b>Webchat Fullstack :</b> Déploiement et maintenance d'une solution de messagerie temps-réel.</li>
-        <li>🔐 <b>Security Expert :</b> Approfondissement des protocoles d'authentification avancés (OAuth2, OpenID Connect).</li>
-        <li>☁️ <b>Cloud Native :</b> Optimisation des déploiements via Docker et orchestration AWS.</li>
+        <li><b>Webchat :</b> Déploiement et maintenance d'une solution de messagerie temps-réel.</li>
+        <li><b>Open Source :</b> Contribution à des projets open source et développement de solutions libres.</li>
+        <li><b>SaaS :</b> Mise en place de solutions SaaS auto-rémunérées.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 GitHub Trophies</h3>
-      <img src="https://github-profile-trophy.onrender.com/?username=lighscent&theme=radical&column=3&no-bg=true" width="100%" />
+      <h3>📊 Vue d'ensemble</h3>
+      <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
     </td>
   </tr>
 </table>
@@ -43,7 +38,10 @@
 <div align="center">
 
 ### 💻 Langages & Core
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -64,14 +62,23 @@
 
 ---
 
-## 📊 Analyse d'Activité
+## 📂 Projets Vedettes & Sites
+| Projet | Type | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Webchat** | Backend | Node / Socket.io | [Voir Repo ↗️](https://github.com/lighscent) |
+| **Portfolio** | Frontend | EJS / CSS | [Live Demo ↗️](https://ton-site.com) |
+
+---
+
+## 📈 Analyse d'Activité
 
 <p align="center">
-  <img src="profile-summary-card-output/dark/0-profile-details.svg" width="80%" />
+  <img src="profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/dark/4-productive-time.svg" width="40%" />
-  <img src="profile-summary-card-output/dark/3-stats.svg" width="40%" />
+  <img src="profile-summary-card-output/dark/4-productive-time.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/3-stats.svg" width="48%" />
 </p>
 
 ---
