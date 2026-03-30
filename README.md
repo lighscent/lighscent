@@ -52,13 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![lighscent's GitHub stats](https://github-readme-stats.vercel.app/api?username=lighscent&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lighscent&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Me contacter
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YmA88jc7GF)
