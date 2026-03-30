@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=lighscent&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=lighscent&fontSize=90&fontAlignY=38" width="100%" />
 
   <h1>🚀 Développeur Backend & Architecte Systèmes</h1>
 
@@ -31,7 +31,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Trophies</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=lighscent&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+      <img src="https://github-profile-trophy.onrender.com/?username=lighscent&theme=radical&column=3&no-bg=true" width="100%" />
     </td>
   </tr>
 </table>
