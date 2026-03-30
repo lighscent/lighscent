@@ -12,12 +12,11 @@
   ---
 </div>
 
-## Objectifs
+## Objectifs et Vue d'ensemble
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 Objectifs 2026</h3>
       <ul>
         <li><b>Webchat :</b> Déploiement et maintenance d'une solution de messagerie temps-réel.</li>
         <li><b>Open Source :</b> Contribution à des projets open source et développement de solutions libres.</li>
@@ -25,7 +24,6 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Vue d'ensemble</h3>
       <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
     </td>
   </tr>
@@ -33,7 +31,15 @@
 
 ---
 
-## 🛠️ Stack Technique & Écosystème
+## Projets & Réalisations
+
+| Projet |  Stack | Lien |
+| :--- |  :--- | :--- |
+| **Webchat** |  Node / Socket.io | [txcord.net](https://txcord.net) |
+
+---
+
+## Stack Technique & Écosystème
 
 <div align="center">
 
@@ -62,23 +68,15 @@
 
 ---
 
-## 📂 Projets Vedettes & Sites
-| Projet | Type | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **Webchat** | Backend | Node / Socket.io | [Voir Repo ↗️](https://github.com/lighscent) |
-| **Portfolio** | Frontend | EJS / CSS | [Live Demo ↗️](https://ton-site.com) |
-
----
-
-## 📈 Analyse d'Activité
+## Analyse d'Activité
 
 <p align="center">
-  <img src="profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
-  <img src="profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="40%" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="40%" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/dark/4-productive-time.svg" width="48%" />
-  <img src="profile-summary-card-output/dark/3-stats.svg" width="48%" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="40%" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="40%" />
 </p>
 
 ---
@@ -92,11 +90,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lighscent/lighscent/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 <div align="center">
-  ⭐️ <i>"Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais."</i>
+  ⭐️ <i>"Quel est la différence entre Claude code et ma femme? Claude fait ce qu'on lui dit, tandis que ma femme fait ce qu'elle veut."</i>
 </div>
