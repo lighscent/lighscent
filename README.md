@@ -64,15 +64,15 @@
 
 ---
 
-## 📈 Statistiques d'Activité
+## 📊 Analyse d'Activité
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lighscent&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighscent&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/0-profile-details.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lighscent&theme=tokyonight" width="100%" />
+  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/lighscent/lighscent/master/profile-summary-card-output/dark/3-stats.svg" width="48%" />
 </p>
 
 ---
