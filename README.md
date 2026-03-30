@@ -33,9 +33,13 @@
 
 ## Projets & Réalisations
 
-| Projet |  Stack | Lien |
-| :--- |  :--- | :--- |
-| **Webchat** |  Node / Socket.io | [txcord.net](https://txcord.net) |
+<div align="center">
+
+| Projet | Stack | Lien |
+| :---: | :---: | :---: |
+| **Webchat** | Node / Socket.io | [txcord.net](https://txcord.net) |
+
+</div>
 
 ---
 
@@ -92,5 +96,5 @@
 
 ---
 <div align="center">
-  ⭐️ <i>"Quel est la différence entre Claude code et ma femme? Claude code fait ce qu'on lui dit, tandis que ma femme fait ce qu'elle veut."</i>
+  ⭐️ <i>"Quel est la différence entre Claude code et ma femme? Claude codefait ce qu'on lui dit, tandis que ma femme fait ce qu'elle veut."</i>
 </div>
