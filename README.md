@@ -93,8 +93,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lighscent)
 
 </div>
-
----
-<div align="center">
-  ⭐️ <i>"Quel est la différence entre Claude code et ma femme? Claude code fait ce qu'on lui dit, tandis que ma femme fait ce qu'elle veut."</i>
-</div>
