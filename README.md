@@ -35,9 +35,9 @@
 
 <div align="center">
 
-| Projet | Stack | Lien |
-| :---: | :---: | :---: |
-| **Webchat** | Node / Socket.io | [txcord.net](https://txcord.net) |
+| Projet | Description | Stack | Lien |
+| :---: | :---: | :---: | :---: |
+| **Meganetwork** | A chill minecraft network | Java 25 | [meganetwork.space](http://meganetwork.space/) |
 
 </div>
 
